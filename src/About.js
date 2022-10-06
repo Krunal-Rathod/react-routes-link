@@ -7,6 +7,7 @@ export class About extends React.Component {
             <>
                 <NavBar />
                 <h1>About</h1>
+                <p>P tag</p>
             </>
         )
     }
